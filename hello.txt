@@ -1,4 +1,6 @@
 this is hello world
 this is fritz new line 
 this  is new line for aries new line
-this is update for feature fritz 
+this is update for feature fritz
+this  is new line for aries new line 
+this is update for aries noren line
